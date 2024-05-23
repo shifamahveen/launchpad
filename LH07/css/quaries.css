@@ -1,0 +1,34 @@
+
+/* .heading
+{
+    color:red;
+}
+
+@media print {
+    .heading
+    {
+        color:blue;
+    }
+    
+} */
+
+
+
+                    
+
+.bg-container
+{
+    width:100%;
+    height:100vh;
+
+}
+
+@media (orientation:portrait),(width:600px) {
+    .bg-container {
+        background-color: red;
+        
+    }
+}
+
+
+

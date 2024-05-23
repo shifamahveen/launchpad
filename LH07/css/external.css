@@ -1,0 +1,25 @@
+h1 {
+    color: blue;
+    background-color: antiquewhite;
+    font-size: 40px;
+    font-style:italic;
+}
+
+p {
+    font-size: 30px;
+    /* bold and lightninng of text */
+    font-weight: light;
+    text-align: justify;
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    border-radius: 15px;
+}
+
+div {
+    color: white;
+    width: 100px;
+    text-align: center;
+    background-color: blue;
+    border-radius: 35px;
+}
